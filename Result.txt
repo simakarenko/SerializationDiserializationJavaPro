@@ -1,0 +1,2 @@
+public java.lang.String DataForInOutStream.text Hello world
+public int DataForInOutStream.constant 2
