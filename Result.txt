@@ -1,2 +1,2 @@
-public java.lang.String DataForInOutStream.text Hello world
-public int DataForInOutStream.constant 2
+public long TestClass.testLong 6543
+public double TestClass.testDouble 2.6
